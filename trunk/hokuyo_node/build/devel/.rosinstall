@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/naman/catkin_ws/src/laser_drivers/trunk/hokuyo_node/build/devel/setup.sh
